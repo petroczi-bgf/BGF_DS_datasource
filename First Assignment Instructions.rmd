@@ -4,6 +4,9 @@ This assignment is graded through Coospace but you need to submit your work on G
 
 You need to answer to the questions with SQL code with the related results. The assignment is based on the Chinook.db, so you need to use this database.
 
+In different folders you'll find the questions and one of these folders will be assigned to you.
+There will be 18 question. 12 easier questions what are worth 1 point each and 6 difficult for 3 points each.
+
 So each submission has a task sequence named sql file with .sql extension and the same filename with the results but the extension is .txt.
 
 
