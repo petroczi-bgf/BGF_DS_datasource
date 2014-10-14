@@ -1,0 +1,46 @@
+##First Assignment Instructions
+
+This assignment is graded through Coospace but you need to submit your work on Github.
+
+You need to answer to the questions with SQL code with the related results. The assignment is based on the Chinook.db, so you need to use this database.
+
+So each submission has a task sequence named sql file with .sql extension and the same filename with the results but the extension is .txt.
+
+
+e.g.:
+
+1.sql
+
+	select * from blabla
+
+1.txt
+
+	id|some col
+
+	1 |some text
+
+
+##How to produce these files
+
+Open sqlite command-line and tune the mode, headers etc.
+
+Create the .sql files and with a text editor develop your sql queries.
+
+You can use .read <.sql file> to run queries against the db.
+
+If you think you got the right answer with .once <.txt file> you can redirect the results to a file. Please note you have to run the query again after you setting the .once. 
+
+
+##How to submit your Github work on Coospace
+
+You need to submit 2 things. 
+
+1. Link to your github repo
+
+2. Your last commit's sha1 hash.
+
+To get your commit footprint you need to navigate to Github and open your repo.
+
+Click on the commits what is highlighted with yellow on the picture. [Image1](https://www.dropbox.com/s/u7g4rxg72flrb4l/1github.PNG?dl=0)
+
+Now there is an icon also highlighted with yellow, hit it and your SHA1 is copied. [Image2](https://www.dropbox.com/s/9gcxcq2ih57fwq2/2github.PNG?dl=0)
