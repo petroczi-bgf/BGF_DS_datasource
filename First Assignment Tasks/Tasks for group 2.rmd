@@ -1,0 +1,41 @@
+#Tasks for group 3
+
+##Tasks 1-12 worth 1 point and tasks 13-18 worth 3 points.
+
+1. List the name of the second 10(10-20) Genre.
+
+2. List the second 10 track what's name contains 'Rain'
+
+3. List all employee who hired between 2002 and 2004
+
+4. List all Customer who's name 'Robert Brown'
+
+5. List all Customer's name, address, city, state, country and postal code who are living in the Hungary, Belgium or Portugal
+
+6. List all the cities where employee lives. Make sure you list only once each city.
+
+7. Select the average bytes of the tracks but in megabyte.
+
+8. List the first 100 track grouped by composer and AlbumID and order the list by composer ascending
+
+9. List the support representative's full name for the first 25 customer
+
+10. Insert your name, BGF as company and the school's country,city, post code,address to Customer. Then write a query what's result will be only your record.
+
+	Now you need to submit the insert query only and result as proof it's inserted.
+
+11. Now update ONLY this record. So the task is change the postcode to something else. Write a query again what is containing your record again same as in the previous task.
+
+12. List the tame of the customer with id 1,3,12 respectively and list all possible support representative for each. So basically we want to see the names of the customers with all employee. (The customer's name occurs multiple times but the support rep only once for each)
+
+13. Select the album's name of a track and the length what is the longest one. Pls use subquery to get the results.
+
+14. Select how many times occur each country in the customer table. Only list the first 5 highest occurrence.
+
+15. Select how many times occur each country in the customer table. 
+
+16. List all of the track name, millisecond, media type name what is on invoice with Hungary as billing country. 
+
+17. List all customer name and city who's city is listed over 10 times as invoice's billing city. Please use having for this task.
+
+18. Select all artist name, album name, track name, genre name, media type name, unit price grouped and order by artist ascending which have not yet purchased and the track is on Album named 'Vinicius De Moraes' and 'Lost, Season 1'. 

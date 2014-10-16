@@ -1,0 +1,41 @@
+#Tasks for group 3
+
+##Tasks 1-12 worth 1 point and tasks 13-18 worth 3 points.
+
+1. List the name of the second 10(10-20) Track.
+
+2. List the first 10 track what's name contains 'Day'.
+
+3. List all employee who hired after 2003
+
+4. List all Customer who's name 'Fernanda Ramos'
+
+5. List all Customer's name, address, city, state, country and postal code who are living in the USA, Canda or Germany
+
+6. List all the countries where customer lives. Make sure you list only once each country.
+
+7. Select the average length of the tracks but in seconds.
+
+8. List all the customers grouped by countries and cities and order the list by countries descending
+
+9. List the album's name for the first 30 track
+
+10. Insert your name, BGF as company and the school's country,city, post code,address to Customer. Then write a query what's result will be only your record.
+
+	Now you need to submit the insert query only and result as proof it's inserted.
+
+11. Now update ONLY this record. So the task is change the postcode to something else. Write a query again what is containing your record again same as in the previous task.
+
+12. List the name of the track with id 1,3,5 respectively and list all possible genre for each. So basically we want to see the names of the tracks with all genres. (The track's name occurs multiple times but the genre only once for each)
+
+13. Select the full name of the customer and the amount of the payment who payed the most in an invoice. Pls use subquery to get the results.
+
+14. Select how many times occur each state in the customer table. Only list the first 5 highest occurrence.
+
+15. Select how many times occur each state in the customer table. 
+
+16. List all of the track name, unit price, genre name what is on invoice with id 410, 404, 299 respectively. 
+
+17. List all customer name and country who's country is listed over 10 times as invoice's billing country. Please use having for this task.
+
+18. Select all artist name, album name, track name, genre name, media type name, unit price grouped and order by artist descending which have not yet purchased and the track is on Album named 'Frank' and 'Revelations'.

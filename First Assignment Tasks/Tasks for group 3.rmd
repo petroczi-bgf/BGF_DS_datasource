@@ -1,0 +1,41 @@
+#
+
+##Tasks 1-12 worth 1 point and tasks 13-18 worth 3 points.
+
+1. List the name of the second 10(10-20) Customer.
+
+2. List the forth 10 track what's name contains 'You'
+
+3. List all employee who hired before 2003
+
+4. List all Customer who's name 'Emma Jones'
+
+5. List all Customer's name, address, city, state, country and postal code who are living in the Spain, Austria or Ireland
+
+6. List all the cities where customer lives. Make sure you list only once each city.
+
+7. Select the average unit price of the tracks but in HUF(with 242 USD/HUF exchange rate)
+
+8. List the first 100 Invoice grouped by billing countries and billing states and order the list by billing countries descending
+
+9. List the customer's full name for the first 30 invoice.
+
+10. Insert your name, BGF as company and the school's country,city, post code,address to Customer. Then write a query what's result will be only your record.
+
+	Now you need to submit the insert query only and result as proof it's inserted.
+
+11. Now update ONLY this record. So the task is change the postcode to something else. Write a query again what is containing your record again same as in the previous task.
+
+12. List the name of the track with id 90,81,99 respectively and list all possible media type for each. So basically we want to see the names of the tracks with all media type. (The track's name occurs multiple times but the media type only once for each)
+
+13. Select the genres's name of a track and the price what is the most expensive. Pls use subquery to get the results.
+
+14. Select how many times occur each country in the invoice table. Only list the first 5 highest occurrence.
+
+15. Select how many times occur each country in the invoice table. 
+
+16. List all of the track name, composer, genre name what is on invoice with '2013-11-13' as invoice date
+
+17. List all customer name and state who's state is listed over 10 times as invoice's billing state and it is not NULL. Please use having for this task.
+
+18. Select all artist name, album name, track name, genre name, media type name, unit price grouped and order by artist descending which have not yet purchased and the track is on Album named 'The Best Of Van Halen', 'Vol. I and All That You Can't Leave Behind'. 
